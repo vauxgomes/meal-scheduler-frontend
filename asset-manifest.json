@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/meal-scheduler-frontend/static/css/main.9b21ba8d.css",
-    "main.js": "/meal-scheduler-frontend/static/js/main.f71d0012.js",
+    "main.js": "/meal-scheduler-frontend/static/js/main.92e81f3a.js",
     "index.html": "/meal-scheduler-frontend/index.html",
     "main.9b21ba8d.css.map": "/meal-scheduler-frontend/static/css/main.9b21ba8d.css.map",
-    "main.f71d0012.js.map": "/meal-scheduler-frontend/static/js/main.f71d0012.js.map"
+    "main.92e81f3a.js.map": "/meal-scheduler-frontend/static/js/main.92e81f3a.js.map"
   },
   "entrypoints": [
     "static/css/main.9b21ba8d.css",
-    "static/js/main.f71d0012.js"
+    "static/js/main.92e81f3a.js"
   ]
 }
